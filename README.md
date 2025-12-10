@@ -20,14 +20,18 @@ Técnicas
 Estrutura de Classes
 ChefAI/
 ├── Entidades/
+
 │   ├── Usuario (gerencia preferências e ingredientes)
 │   ├── Ingrediente (representa ingredientes e quantidades)
 │   └── Receita (contém ingredientes e modo de preparo)
+
 ├── Sugestores/
 │   ├── SugestorBase (classe abstrata)
 │   └── SugestorRapido (foca em receitas ≤30min)
+
 ├── Serviços/
 │   ├── APIService (comunicação com API Gemini)
 │   └── ConfiguracaoAPI (gerenciamento de configurações)
+
 └── Interface/
     └── ChefAIEntregaFinal (classe principal)
