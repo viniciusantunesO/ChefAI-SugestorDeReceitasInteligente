@@ -20,7 +20,6 @@ Técnicas
 Estrutura de Classes
 ChefAI/
 ├── Entidades/
-
 │   ├── Usuario (gerencia preferências e ingredientes)
 │   ├── Ingrediente (representa ingredientes e quantidades)
 │   └── Receita (contém ingredientes e modo de preparo)
