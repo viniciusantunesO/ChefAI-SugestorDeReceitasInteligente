@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ChefAIEntregaFinal
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ executarSistemaCompleto()
+comment3.params=
+comment3.target=void\ criarDemonstracaoPOO()
+comment4.params=
+comment4.target=void\ executarCenarioCompleto()
+comment5.params=receitas\ usuario
+comment5.target=void\ exibirReceitasComDetalhes(java.util.ArrayList,\ Usuario)
+comment6.params=usuario
+comment6.target=java.util.ArrayList\ gerarSugestoesInteligentes(Usuario)
+comment7.params=usuario\ receita
+comment7.target=int\ calcularScoreCompatibilidade(Usuario,\ Receita)
+comment8.params=
+comment8.target=java.util.ArrayList\ criarBancoReceitas()
+numComments=9

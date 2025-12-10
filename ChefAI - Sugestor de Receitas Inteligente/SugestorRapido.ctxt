@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SugestorRapido
+comment0.text=\r\n\ Sugestor\ que\ prioriza\ receitas\ R\u00C1PIDAS\ (\u2264\ 30\ minutos).\r\n\ Demonstra\ HERAN\u00C7A\ (estende\ SugestorBase)\ e\ POLIMORFISMO\ (implementa\ sugerirReceitas).\r\n
+comment1.params=usuario
+comment1.target=java.util.ArrayList\ sugerirReceitas(Usuario)
+comment1.text=\r\n\ Implementa\u00E7\u00E3o\ espec\u00EDfica\ do\ SugestorRapido.\r\n\ Foca\ em\ receitas\ com\ tempo\ m\u00EDnimo\ de\ preparo.\r\n
+comment2.params=usuario
+comment2.target=Receita\ sugerirReceitaMaisRapida(Usuario)
+comment2.text=\r\n\ M\u00E9todo\ espec\u00EDfico\ do\ SugestorRapido.\r\n\ Encontra\ a\ receita\ MAIS\ R\u00C1PIDA\ poss\u00EDvel.\r\n
+numComments=3
