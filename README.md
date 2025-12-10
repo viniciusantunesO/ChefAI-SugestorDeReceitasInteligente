@@ -21,3 +21,4 @@ Configuração segura: Chaves API em arquivo externo protegido
 Interface intuitiva: Menu interativo via console
 
 🏗️ Arquitetura do Sistema
+<img width="1673" height="876" alt="imagemDiagrama (1)" src="https://github.com/user-attachments/assets/eeacd343-f564-402b-8069-31687690c874" />
