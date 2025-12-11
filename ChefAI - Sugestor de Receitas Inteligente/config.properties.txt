@@ -1,2 +1,3 @@
-gemini.api.key=AIzaSyCqOkgY-Gvnlta2dUZMoV77SjMgMniIItI
+gemini.api.key=SUACHAVE
+
 gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent
